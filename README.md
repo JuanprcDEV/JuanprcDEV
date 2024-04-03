@@ -17,5 +17,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=JuanprcDEV">
 </a>
-<a href="https://github.com/JuanprcDEV?tab=followers"><img src="https://img.shields.io/github/followers/JuanprcDEV?label=Followers&style=social" alt="GitHub Badge"></a>
+ <!-- <a href="https://github.com/JuanprcDEV?tab=followers"><img src="https://img.shields.io/github/followers/JuanprcDEV?label=Followers&style=social" alt="GitHub Badge"></a> -->
 </div>
