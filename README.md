@@ -39,8 +39,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/JuanprcDEV/JuanprcDEV/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -64,5 +62,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanprcDEV.JuanprcDEV&left_color=black&right_color=aquamarine&left_text=Visitantes"  />
 </div>
 
-###
 ###
