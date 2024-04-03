@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu JuanprcDEV>/<seu JuanprcDEV>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/JuanprcDEV/JuanprcDEV/output/snake.svg" alt="Snake animation" />
 
 ###
 
