@@ -55,11 +55,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanprcDEV.JuanprcDEV&left_color=black&right_color=aquamarine&left_text=Visitantes"  />
-</div>
-
-###
