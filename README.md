@@ -5,7 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="/assets/img/Demon Days Final.png"  />
+  <kbd>
+  <img height="100" src="/assets/img/Demon Days Final.png"/>
+  </kbd>
 </div>
 
 ###
