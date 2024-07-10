@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="100" src="/assets/img/Demon Days Final.png"  />
 </div>
 
 ###
